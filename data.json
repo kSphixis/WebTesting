@@ -1,0 +1,92 @@
+Railroad: "SEPTA",
+line: [{
+	Line: "Red Line",
+	house: [{
+		House: "House 1",
+		iecc: [{
+			IECC: "IECC 1"
+		}, {
+			IECC: "IECC 2"
+		}, {
+			IECC: "IECC 3"
+		}]
+	}, { 
+		House: "House 2",
+		iecc: [{
+			IECC: "IECC 1"
+		}, {
+			IECC: "IECC 2"
+		}, {
+			IECC: "IECC 3"
+		}]
+	}, { 
+		House: "House 3",
+		iecc: [{
+			IECC: "IECC 1"
+		}, {
+			IECC: "IECC 2"
+		}, {
+			IECC: "IECC 3"
+		}]
+	}]
+}, {
+	Line: "Blue Line",
+	house: [{
+		House: "House 1",
+		iecc: [{
+			IECC: "IECC 1"
+		}, {
+			IECC: "IECC 2"
+		}, {
+			IECC: "IECC 3"
+		}]
+	}, { 
+		House: "House 2",
+		iecc: [{
+			IECC: "IECC 1"
+		}, {
+			IECC: "IECC 2"
+		}, {
+			IECC: "IECC 3"
+		}]
+	}, { 
+		House: "House 3",
+		iecc: [{
+			IECC: "IECC 1"
+		}, {
+			IECC: "IECC 2"
+		}, {
+			IECC: "IECC 3"
+		}]
+	}]
+}, {
+	Line: "Yellow Line",
+	house: [{
+		House: "House 1",
+		iecc: [{
+			IECC: "IECC 1"
+		}, {
+			IECC: "IECC 2"
+		}, {
+			IECC: "IECC 3"
+		}]
+	}, { 
+		House: "House 2",
+		iecc: [{
+			IECC: "IECC 1"
+		}, {
+			IECC: "IECC 2"
+		}, {
+			IECC: "IECC 3"
+		}]
+	}, { 
+		House: "House 3",
+		iecc: [{
+			IECC: "IECC 1"
+		}, {
+			IECC: "IECC 2"
+		}, {
+			IECC: "IECC 3"
+		}]
+	}]
+}]
